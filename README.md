@@ -1,1 +1,1 @@
-# Critical_Balance_Period_N
+# Critical Balance Period (N) script
